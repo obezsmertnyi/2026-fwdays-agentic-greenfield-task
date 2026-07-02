@@ -21,7 +21,9 @@ Video: https://github.com/obezsmertnyi/2026-fwdays-agentic-greenfield-task/blob/
 https://github.com/obezsmertnyi/WC-Tournament
 
 ### Чекліст
+
 - [x] Вказано справжнє імʼя
-- [x] Додано посилання на відео-демо (1–2 хв)
-- [x] Описано застосовані практики Agentic Engineering
+- [x] Додано посилання на відео-демо (1–2 хв) — розділ «Відео-демо» вище
+- [x] Описано застосовані практики Agentic Engineering — розділ вище + докази в коді: [`AGENTS.md`](https://github.com/obezsmertnyi/WC-Tournament/blob/main/AGENTS.md), [`docs/features/`](https://github.com/obezsmertnyi/WC-Tournament/tree/main/docs/features), [`docs/qa/review-findings.json`](https://github.com/obezsmertnyi/WC-Tournament/blob/main/docs/qa/review-findings.json)
 - [x] Результат робочий і доведений до кінця
+  - evidence: прод https://wc2026.mtgrd-das.app · реліз [v0.2.0](https://github.com/obezsmertnyi/WC-Tournament/releases/tag/v0.2.0) · CI зелений ([Actions](https://github.com/obezsmertnyi/WC-Tournament/actions)) · адверсаріальний рев'ю [`review-findings.json`](https://github.com/obezsmertnyi/WC-Tournament/blob/main/docs/qa/review-findings.json) (22 знахідки, полагоджені)
