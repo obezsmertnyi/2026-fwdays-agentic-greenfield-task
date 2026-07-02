@@ -16,7 +16,7 @@ Google OAuth. Продакшн: **https://wc2026.mtgrd-das.app** · Код (ок
 
 ## Відео-демо (1–2 хв)
 <!-- ВСТАВ ЛІНК -->
-<VIDEO_LINK>
+{LINK}
 
 ## Які практики Agentic Engineering застосовано
 
