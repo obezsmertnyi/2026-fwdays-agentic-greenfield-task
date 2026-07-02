@@ -16,7 +16,7 @@ Google OAuth. Продакшн: **https://wc2026.mtgrd-das.app** · Код (ок
 
 ## Відео-демо (1–2 хв)
 <!-- ВСТАВ ЛІНК -->
-{LINK}
+https://github.com/obezsmertnyi/2026-fwdays-agentic-greenfield-task/blob/submission/wc2026-demo.mp4
 
 ## Які практики Agentic Engineering застосовано
 
